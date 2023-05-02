@@ -1,0 +1,195 @@
+.car-img-fit{
+    aspect-ratio: 16/19;
+    object-fit: cover;
+}
+.card-bg-dark {
+height: 100%;
+}
+.card-body{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+.car-text {
+    flex-grow: 1;
+    padding-bottom: 50%;
+    
+}
+
+.text a{
+   font-family:monospace;
+}
+.-title{
+    padding-right: 60%;
+    position: initial;
+}
+.-text{
+    padding-right: 60%;
+    position: initial;
+}
+.yaa{
+    padding-left: -3%;
+    position: initial;
+    padding-bottom:-70%;
+  
+}
+.baa{
+    padding-left: 70%;
+    padding-top: 100%;
+
+   
+
+}
+.-ti{
+    padding-right: 80%;
+    position: initial;
+}
+.-tex{
+    padding-right: 80%;
+    position: initial;
+}
+.wa{
+    padding-right: -1%;
+    position: initial;
+}
+.wb{
+    padding-right: -1%;
+    position: initial;
+}
+
+h6{
+    padding-top: 50%;
+    padding-left: 10%;
+    
+}
+.www{
+    font-style: italic;
+}
+.ee{
+    color:  orangered;
+  
+}
+.gg{
+font-style: oblique;
+}
+body{
+    background: #ddd;
+}
+.profile area{
+   padding: 80px 0;
+}
+.card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.img1 img{
+    height: 200px;
+    
+
+    width: 200%;
+}
+.img2 img{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    margin-top: -80px;
+}
+.card:hover .img2 img{
+    border-color: darkcyan;
+    transition: .7s;
+}
+.maine{
+    padding: 30px 0;
+    text-align: center;
+}
+.h2{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+.maine  p{
+    font-size: 16px;
+    padding: 10px;
+    font-family: 'poppins',sans-serif;
+}
+.socials{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.socials i{
+    font-size: 20px;
+    color: darkcyan;
+    padding: 0 10px;
+}
+.radio{
+    width: 100%;
+    height: 100%;
+}
+.nn{
+   
+}
+.dd{
+    font-family:sans-serif;
+}
+.onclick{
+    padding-bottom: 100px;
+}
+.vv{
+    margin-left: 42%;
+    padding-top: 4%;
+    padding-bottom: 6%;
+    border-radius: 20px;
+    font-size:medium;
+    font-family: 'Courier New', Courier, monospace;
+    border: #fff;
+  
+}
+
+.bi-credit-card{
+color: red;
+}
+.bi-card-heading{
+    color: blue;
+}
+.bi-card-list{
+color: rgb(16, 77, 22);
+}
+.bi-chat-left-text-fill{
+    color: darkcyan;
+}
+.bi-chat-square-text{
+    color: deeppink;
+}
+.bi-credit-card-2-back-fill{
+    color:black;
+}
+.bi-credit-card-2-front{
+    color:dimgrey;
+}
+.bi-sd-card{
+    color: blueviolet;
+}
+.bi-credit-card-2-front-fill{
+    color: chocolate;
+}
+.bi-paypal{
+    color: blue;
+}
+.d-nom{
+    width: 100%;
+}
+.tarazan{
+    width: 100%;
+}
+.navbar-expand-md{
+    width: 100%;
+}
